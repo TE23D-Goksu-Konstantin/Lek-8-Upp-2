@@ -4,7 +4,7 @@ import Djurrrrr.Djur.dresseras;
 
 public class Hund extends Djur implements dresseras
 {
-    public static Object hund;
+
 
     public Hund()
     {
