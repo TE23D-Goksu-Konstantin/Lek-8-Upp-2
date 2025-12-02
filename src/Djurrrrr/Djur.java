@@ -35,14 +35,5 @@ public abstract class Djur
 
     public abstract String ljud();
 
-
-    public interface dresseras
-    {
-        public void sitt();
-        public void apport();
-        public void kom();
-    }
-
-
     
 }

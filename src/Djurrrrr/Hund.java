@@ -1,10 +1,7 @@
 package Djurrrrr;
 
-import Djurrrrr.Djur.dresseras;
-
-public class Hund extends Djur implements dresseras
+public class Hund extends Djur implements Dresseras
 {
-
 
     public Hund()
     {
